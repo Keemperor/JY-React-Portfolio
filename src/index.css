@@ -5,11 +5,11 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #F3A847;
-  --tertiary: #B12704;
+  --primary: #253659;
+  --secondary: #4B94F2;
+  --tertiary: #9BC1F2;
   --light: #fafafa;
-  --dark: #000000;
+  --dark: #9BC1F2;
   --darker: #111111;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -52,7 +52,8 @@ h6 {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 5rem;
+  
 }
 
 h2 {
@@ -222,6 +223,7 @@ textarea {
 }
 
 .px-1 {
+  background-color: var(--primary);
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
 }
