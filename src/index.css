@@ -172,6 +172,25 @@ textarea {
 	padding: 5px;
 }
 
+.footer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+  background: var(--primary);
+}
+
+.logo {
+	width: 4rem;
+	height: 3rem;
+  margin-top: 1rem;
+	margin-bottom: 1rem;
+	cursor: pointer;
+}
+
+.logo:hover {
+	opacity: 0.5;
+}
+
 .container {
   width: 85%;
   max-width: 1200px;
@@ -217,7 +236,6 @@ textarea {
 }
 
 .my-5 {
-  
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
 }
