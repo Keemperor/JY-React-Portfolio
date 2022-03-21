@@ -1,15 +1,18 @@
 import React from 'react'
-import coverImage from "../../assets/cover/cover-image.jpg";
+import coverImage from "../../assets/Images/Jacob-portrait.png";
 
 function About() {
 
   return (
     <section className="my-5" >
-      <h1 id="about">Who am I?</h1>
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+      <h1 id="about" className="center">Jacob Yarce</h1>
+      <img src={coverImage} className="my-2" style={{ width: "35%",  }} alt="Jacob Yarce" />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+          I am a Web Developer and a Graphic Designer, my intention is to bring your web projects to life and make them look visually amazing and efficient.
+      </p>
+      <p>
+        I am knowledgeable in HTML, CSS, Javascript, MERN, as well as the adobe suit, to aid you in bringing any and all of your projects to a successful deployment.
       </p>
       </div>
     </section>
