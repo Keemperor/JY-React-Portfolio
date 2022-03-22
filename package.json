@@ -1,8 +1,8 @@
 {
-  "name": "photo-port",
+  "name": "JY-React-Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://keemperor.github.io/photo-port",
+  "homepage": "https://github.com/Keemperor/JY-React-Portfolio",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.1.3",
