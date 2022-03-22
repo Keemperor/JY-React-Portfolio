@@ -12,6 +12,7 @@ main {
   --dark: #9BC1F2;
   --darker: #111111;
   --error: rgb(228, 46, 1);
+  --spacing-half: .5rem;
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
@@ -233,6 +234,11 @@ textarea {
   width: 50%;
   margin-top: var(--spacing-two);
   margin-bottom: var(--spacing-two);
+}
+
+.my-3 {
+  margin-top: var(--spacing-half);
+  margin-bottom: var(--spacing-half);
 }
 
 .my-5 {
