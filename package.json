@@ -2,7 +2,7 @@
   "name": "JY-React-Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Keemperor.github.io/JY-React-Portfolio",
+  "homepage": "https://keemperor.github.io/JY-React-Portfolio",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.1.3",
