@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JY-React-Portfolio/static/css/main.8a5e1584.css",
+    "main.js": "/JY-React-Portfolio/static/js/main.e0df67de.js",
+    "static/js/787.778f9923.chunk.js": "/JY-React-Portfolio/static/js/787.778f9923.chunk.js",
+    "static/media/Did-I-Win-Pool-Site-Page.png": "/JY-React-Portfolio/static/media/Did-I-Win-Pool-Site-Page.959adb593c8cc3552e88.png",
+    "static/media/Jacob-portrait.png": "/JY-React-Portfolio/static/media/Jacob-portrait.4c7e26210d70f023607a.png",
+    "static/media/JY-Weather-Dashboard.png": "/JY-React-Portfolio/static/media/JY-Weather-Dashboard.9dd8395c9762c7338535.png",
+    "static/media/JY-SIP.png": "/JY-React-Portfolio/static/media/JY-SIP.47eea363caaac3f07d9a.png",
+    "static/media/Jacob-Yarce-Resume-2020.pdf": "/JY-React-Portfolio/static/media/Jacob-Yarce-Resume-2020.256e0bf0c3689b88e92f.pdf",
+    "static/media/scheduler-challenge-image.png": "/JY-React-Portfolio/static/media/scheduler-challenge-image.d9bd52dd8c9d58e04b0f.png",
+    "static/media/jy-mvc-tech-blog.png": "/JY-React-Portfolio/static/media/jy-mvc-tech-blog.eda78a33f16d83be1ca6.png",
+    "index.html": "/JY-React-Portfolio/index.html",
+    "main.8a5e1584.css.map": "/JY-React-Portfolio/static/css/main.8a5e1584.css.map",
+    "main.e0df67de.js.map": "/JY-React-Portfolio/static/js/main.e0df67de.js.map",
+    "787.778f9923.chunk.js.map": "/JY-React-Portfolio/static/js/787.778f9923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5e1584.css",
+    "static/js/main.e0df67de.js"
+  ]
+}
