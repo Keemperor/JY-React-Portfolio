@@ -121,7 +121,7 @@ button[disabled] {
   opacity: .8;
 }
 
-.center {
+.xcenter {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -202,6 +202,7 @@ textarea {
 .flex-row {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .space-between {
