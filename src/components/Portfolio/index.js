@@ -6,7 +6,7 @@ function Portfolio() {
 		{
 			name: 'GG Denim',
 			description:
-				'A stylish web site for an up and coming clothe brand',
+				'A stylish web site for an up and coming clothes brand',
 			image: 'GG-Denim.png',
 			technologies: [
 				'HTML/CSS',

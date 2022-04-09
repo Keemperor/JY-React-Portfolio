@@ -35,7 +35,7 @@ function Project(props) {
 				src={require(`../../assets/Images/${image}`)}
 				className="card-image"
 			/>
-			<div className="center">
+			<div className="center bg-primary">
 				<Card.Body>
 					<Card.Title className="card-title">{name}</Card.Title>
 					<Card.Text className="card-text">{description}</Card.Text>
