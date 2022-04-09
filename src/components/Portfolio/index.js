@@ -4,6 +4,23 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
+			name: 'GG Denim',
+			description:
+				'A stylish web site for an up and coming clothe brand',
+			image: 'GG-Denim.png',
+			technologies: [
+				'HTML/CSS',
+				'JavaScript',
+				'React',
+				'GrapQL',
+				'Node.js',
+				'bootstrap',
+				'JQuery',
+			],
+			github: 'https://github.com/Abduler21/brand-template',
+			deployed: 'https://brand-to-death.herokuapp.com/Collections',
+		},
+		{
 			name: 'Did I Win?',
 			description:
 				'This is a page that allows the user to keep tabs of all their superbowl pools in one consistent location. The pools are updated quarterly and the results known on the spot to brag to friends and family.',
@@ -71,6 +88,12 @@ function Portfolio() {
 					<li className="padding">
 						<Project projects={projects[3]}></Project>
 					</li>
+				</ul>
+				<ul className="flex-row mobile-row">
+					<li className="padding">
+						<Project projects={projects[4]}></Project>
+					</li>
+				
 				</ul>
 			
 			</div>
